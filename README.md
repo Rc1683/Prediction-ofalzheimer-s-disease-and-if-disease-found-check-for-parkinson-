@@ -18,4 +18,14 @@ dataset for alzheihmer
 
 
 
-/content/drive/MyDrive/devclevermed-920 Prediction-Of-Alzheimer-s-Disease 115cb341b9fc1bf7acbe8533a25c24649f879752 By scanned images-input                                       
+
+https://drive.google.com/drive/folders/1iEy5thIvy34Nfd4DXNvwsfNyHuwAwo9u?usp=sharing
+
+
+
+
+pls follow the steps in code it will run succcesfully
+
+
+
+for input take 1 test dataset for alzhemier disease and see the result
